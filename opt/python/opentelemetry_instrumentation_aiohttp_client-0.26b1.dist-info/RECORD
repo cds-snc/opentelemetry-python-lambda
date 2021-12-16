@@ -1,0 +1,14 @@
+opentelemetry/instrumentation/aiohttp_client/__init__.py,sha256=WtXV7iXjjE5krHrrFh_oCIBN4yqysM5AlHpXKubu5Go,12498
+opentelemetry/instrumentation/aiohttp_client/__pycache__/__init__.cpython-38.pyc,,
+opentelemetry/instrumentation/aiohttp_client/__pycache__/package.cpython-38.pyc,,
+opentelemetry/instrumentation/aiohttp_client/__pycache__/version.cpython-38.pyc,,
+opentelemetry/instrumentation/aiohttp_client/package.py,sha256=p_Q78PKsyRJD-WRU8p_peiPrGxilvGbfeZce0IiMkII,623
+opentelemetry/instrumentation/aiohttp_client/version.py,sha256=2N9DYGAWQW_fgR5_gHcKgj3-TyMjf-Eo63JiENyHMK4,610
+opentelemetry_instrumentation_aiohttp_client-0.26b1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+opentelemetry_instrumentation_aiohttp_client-0.26b1.dist-info/LICENSE,sha256=h8jwqxShIeVkc8vOo9ynxGYW16f4fVPxLhZKZs0H5U8,11350
+opentelemetry_instrumentation_aiohttp_client-0.26b1.dist-info/METADATA,sha256=iDFXWdpFlfAwIOS1pmpUQx3KRHlt6boIN6rbcHcwrHU,2165
+opentelemetry_instrumentation_aiohttp_client-0.26b1.dist-info/RECORD,,
+opentelemetry_instrumentation_aiohttp_client-0.26b1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+opentelemetry_instrumentation_aiohttp_client-0.26b1.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+opentelemetry_instrumentation_aiohttp_client-0.26b1.dist-info/entry_points.txt,sha256=yf3vsPSV6WIX_bZA6LtKulROB1ggKtMw3gqsdwkZx28,118
+opentelemetry_instrumentation_aiohttp_client-0.26b1.dist-info/top_level.txt,sha256=5p97iTMneNm1LAKDalzEVpYhvPZsaqJZzdLuD_upSaQ,14

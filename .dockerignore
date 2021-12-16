@@ -1,0 +1,9 @@
+/*
+    Exclude everything
+*/
+*
+
+/*
+  Safelist
+*/
+!opt

@@ -1,0 +1,14 @@
+opentelemetry/instrumentation/sqlite3/__init__.py,sha256=9bhx55mo894j9Oz92m_0WfoCJElwRxmdhtWWKGZ9UmA,3233
+opentelemetry/instrumentation/sqlite3/__pycache__/__init__.cpython-38.pyc,,
+opentelemetry/instrumentation/sqlite3/__pycache__/package.cpython-38.pyc,,
+opentelemetry/instrumentation/sqlite3/__pycache__/version.cpython-38.pyc,,
+opentelemetry/instrumentation/sqlite3/package.py,sha256=6OiaAJOKS-XH9e-QAAkj7AyOTw-6bTetTuXhavCCkQ0,609
+opentelemetry/instrumentation/sqlite3/version.py,sha256=UGNz_YIKtREHZRACmVr8YJfboUvOQ2B4S5d2sKR0Srs,632
+opentelemetry_instrumentation_sqlite3-0.26b1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+opentelemetry_instrumentation_sqlite3-0.26b1.dist-info/LICENSE,sha256=h8jwqxShIeVkc8vOo9ynxGYW16f4fVPxLhZKZs0H5U8,11350
+opentelemetry_instrumentation_sqlite3-0.26b1.dist-info/METADATA,sha256=4qyQiPuJlue7g-z2EU4aoEAx_4fwWUk5AkmaZu33JiI,1917
+opentelemetry_instrumentation_sqlite3-0.26b1.dist-info/RECORD,,
+opentelemetry_instrumentation_sqlite3-0.26b1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+opentelemetry_instrumentation_sqlite3-0.26b1.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+opentelemetry_instrumentation_sqlite3-0.26b1.dist-info/entry_points.txt,sha256=_DEE7XkHpx_8LD4GHBqwu2APky4JJRYWRi6rjP7dbj8,98
+opentelemetry_instrumentation_sqlite3-0.26b1.dist-info/top_level.txt,sha256=5p97iTMneNm1LAKDalzEVpYhvPZsaqJZzdLuD_upSaQ,14

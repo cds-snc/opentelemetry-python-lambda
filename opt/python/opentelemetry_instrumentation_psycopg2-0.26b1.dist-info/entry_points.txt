@@ -1,0 +1,3 @@
+[opentelemetry_instrumentor]
+psycopg2 = opentelemetry.instrumentation.psycopg2:Psycopg2Instrumentor
+

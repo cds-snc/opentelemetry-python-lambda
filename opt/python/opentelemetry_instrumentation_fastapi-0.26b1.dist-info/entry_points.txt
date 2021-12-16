@@ -1,0 +1,3 @@
+[opentelemetry_instrumentor]
+fastapi = opentelemetry.instrumentation.fastapi:FastAPIInstrumentor
+

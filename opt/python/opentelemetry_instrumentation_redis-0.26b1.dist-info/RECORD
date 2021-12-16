@@ -1,0 +1,15 @@
+opentelemetry/instrumentation/redis/__init__.py,sha256=gWLdGxqKIE_BSl_qe65x0Oo62lOBE-uzTyDj1ainQ4w,7796
+opentelemetry/instrumentation/redis/__pycache__/__init__.cpython-38.pyc,,
+opentelemetry/instrumentation/redis/__pycache__/package.cpython-38.pyc,,
+opentelemetry/instrumentation/redis/__pycache__/util.cpython-38.pyc,,
+opentelemetry/instrumentation/redis/__pycache__/version.cpython-38.pyc,,
+opentelemetry/instrumentation/redis/package.py,sha256=R7jq1ZysT9oC_IWt7iV_6mHAo9kfCXF74gtzPYqnG7Q,619
+opentelemetry/instrumentation/redis/util.py,sha256=Iljbj9SzmRoZbuNPc6LBJbKVqjmGrwHXtJn-Z-fTB_c,2201
+opentelemetry/instrumentation/redis/version.py,sha256=aSQW1TvXOwpNvHwAeylOhaYeTQIXFAKtxq4Vi8bGfqE,608
+opentelemetry_instrumentation_redis-0.26b1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+opentelemetry_instrumentation_redis-0.26b1.dist-info/METADATA,sha256=1T3T8pyi0pvl0FJ06NQx-8wRWm3cm71sTa2QzzP2FAU,2188
+opentelemetry_instrumentation_redis-0.26b1.dist-info/RECORD,,
+opentelemetry_instrumentation_redis-0.26b1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+opentelemetry_instrumentation_redis-0.26b1.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+opentelemetry_instrumentation_redis-0.26b1.dist-info/entry_points.txt,sha256=wIJ6b5gYU-DL6pIFURH3UB2jHppNtSkZU0NPwGZM_HM,92
+opentelemetry_instrumentation_redis-0.26b1.dist-info/top_level.txt,sha256=5p97iTMneNm1LAKDalzEVpYhvPZsaqJZzdLuD_upSaQ,14

@@ -1,0 +1,14 @@
+opentelemetry/instrumentation/pymemcache/__init__.py,sha256=wMllLN-sDyzQaCgkugLOSWt56ieqxWZobVIeBNhfavU,5720
+opentelemetry/instrumentation/pymemcache/__pycache__/__init__.cpython-38.pyc,,
+opentelemetry/instrumentation/pymemcache/__pycache__/package.cpython-38.pyc,,
+opentelemetry/instrumentation/pymemcache/__pycache__/version.cpython-38.pyc,,
+opentelemetry/instrumentation/pymemcache/package.py,sha256=CkMBt6ki0JWlQK_3ektJsDRPHGhRiNHBsvbcfvOcVaM,624
+opentelemetry/instrumentation/pymemcache/version.py,sha256=aSQW1TvXOwpNvHwAeylOhaYeTQIXFAKtxq4Vi8bGfqE,608
+opentelemetry_instrumentation_pymemcache-0.26b1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+opentelemetry_instrumentation_pymemcache-0.26b1.dist-info/LICENSE,sha256=h8jwqxShIeVkc8vOo9ynxGYW16f4fVPxLhZKZs0H5U8,11350
+opentelemetry_instrumentation_pymemcache-0.26b1.dist-info/METADATA,sha256=sI02asGDdx-OlFr7MWGjLqLC1rRK6DyxCpIyaxUq51A,2097
+opentelemetry_instrumentation_pymemcache-0.26b1.dist-info/RECORD,,
+opentelemetry_instrumentation_pymemcache-0.26b1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+opentelemetry_instrumentation_pymemcache-0.26b1.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+opentelemetry_instrumentation_pymemcache-0.26b1.dist-info/entry_points.txt,sha256=ivq6mQsyN7ma0OkaDehxiuQOwg9fw5QkmgEjZls4-YU,107
+opentelemetry_instrumentation_pymemcache-0.26b1.dist-info/top_level.txt,sha256=5p97iTMneNm1LAKDalzEVpYhvPZsaqJZzdLuD_upSaQ,14

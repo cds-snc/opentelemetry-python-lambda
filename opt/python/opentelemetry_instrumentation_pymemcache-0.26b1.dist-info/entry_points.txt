@@ -1,0 +1,3 @@
+[opentelemetry_instrumentor]
+pymemcache = opentelemetry.instrumentation.pymemcache:PymemcacheInstrumentor
+
